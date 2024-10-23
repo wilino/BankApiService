@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Servicios\" />
+    <None Remove="Dtos\" />
+    <None Remove="Servicios\Interfaces\" />
+    <None Remove="Servicios\Imp\" />
+    <None Remove="Parametros\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Servicios\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Servicios\Interfaces\" />
+    <Folder Include="Servicios\Imp\" />
+    <Folder Include="Parametros\" />
+    <Folder Include="Parametros\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ServicioClientes.Infraestructura\ServicioClientes.Infraestructura.csproj" />
+    <ProjectReference Include="..\ServicioCuentas.Dominio\ServicioCuentas.Dominio.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+  </ItemGroup>
+</Project>

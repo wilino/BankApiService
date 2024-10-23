@@ -1,0 +1,79 @@
+﻿<Properties StartupConfiguration="{3D55F866-773D-407A-A12D-6E349AF3CE55}|https">
+  <MonoDevelop.Ide.ItemProperties.ServicioClientes.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint enabled="false" file="/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Aplicacion/Servicios/Imp/CuentaServicio.cs" relfile="ServicioCuentas.Aplicacion/Servicios/Imp/CuentaServicio.cs" line="80" column="1" />
+    <Breakpoint enabled="false" file="/Users/willy-mac/Projects/ServicioClientes/ServicioClientes/Controllers/ClienteController.cs" relfile="ServicioClientes/Controllers/ClienteController.cs" line="100" column="1" />
+    <Breakpoint enabled="false" file="/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Aplicacion/Servicios/Imp/ClienteServicio.cs" relfile="ServicioClientes.Aplicacion/Servicios/Imp/ClienteServicio.cs" line="96" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ServicioCuentas.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Varios proyectos" Name="Varios proyectos">
+      <Items>
+        <StartupItem ItemId="{0E941CC0-A739-4C15-BDDB-0E0AC5C7FC77}" ItemName="ServicioCuentas.API" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServicioClientes.Pruebas/ClienteServicioPruebas.cs">
+    <Files>
+      <File FileName="ServicioClientes.Infraestructura/Repositorios/IRepositorioGenerico.cs" Line="18" Column="36" />
+      <File FileName="ServicioClientes/Controllers/ClienteController.cs" Line="96" Column="45" />
+      <File FileName="ServicioCuentas.API/Controllers/CuentaController.cs" Line="31" Column="1" />
+      <File FileName="ServicioCuentas.API/Controllers/MovimientoController.cs" Line="41" Column="80" />
+      <File FileName="ServicioCuentas.API/Program.cs" Line="11" Column="1" />
+      <File FileName="ServicioClientes.Infraestructura/Contextos/ServicioClientesContexto.cs" Line="55" Column="28" />
+      <File FileName="ServicioClientes/appsettings.json" Line="14" Column="32" />
+      <File FileName="ServicioClientes.Aplicacion/Servicios/Imp/PersonaServicio.cs" Line="1" Column="1" />
+      <File FileName="ServicioClientes.Aplicacion/Servicios/Interfaces/IPersonaServicio.cs" />
+      <File FileName="ServicioClientes/Controllers/PersonaController.cs" />
+      <File FileName="ServicioCuentas.Dominio/Enums/TipoMovimiento.cs" Line="1" Column="1" />
+      <File FileName="ServicioCuentas.Dominio/Enums/TipoCuenta.cs" />
+      <File FileName="ServicioCuentas.Aplicacion/Dtos/MovimientoDto.cs" Line="10" Column="43" />
+      <File FileName="ServicioClientes/Properties/launchSettings.json" />
+      <File FileName="ServicioClientes/Profiles/MappingProfile.cs" />
+      <File FileName="ServicioClientes.Aplicacion/DTOs/PersonaDto.cs" Line="6" Column="5" />
+      <File FileName="ServicioClientes.Aplicacion/Servicios/Imp/ClienteServicio.cs" Line="45" Column="1" />
+      <File FileName="ServicioClientes.Dominio/Entidades/Persona.cs" Line="5" Column="16" />
+      <File FileName="ServicioClientes.Aplicacion/Servicios/Interfaces/IClienteServicio.cs" Line="12" Column="38" />
+      <File FileName="ServicioCuentas.Aplicacion/Servicios/Imp/CuentaServicio.cs" Line="183" Column="1" />
+      <File FileName="ServicioClientes.Aplicacion/DTOs/ClienteDto.cs" Line="9" Column="41" />
+      <File FileName="ServicioClientes.Dominio/Entidades/Cliente.cs" Line="6" Column="23" />
+      <File FileName="ServicioCuentas.Aplicacion/Dtos/ClienteDto.cs" Line="5" Column="13" />
+      <File FileName="ServicioCuentas.Aplicacion/Dtos/PersonaDto.cs" Line="13" Column="6" />
+      <File FileName="ServicioCuentas.Aplicacion/Dtos/CuentaDto.cs" Line="3" Column="27" />
+      <File FileName="ServicioCuentas.Aplicacion/Servicios/Imp/MovimientoServicio.cs" Line="117" Column="1" />
+      <File FileName="ServicioCuentas.Aplicacion/Parametros/RegistrarMovimientoParametros.cs" Line="4" Column="18" />
+      <File FileName="ServicioCuentas.Aplicacion/Servicios/Interfaces/IMovimientoServicio.cs" Line="11" Column="56" />
+      <File FileName="ServicioCuentas.API/ReportesController.cs" Line="25" Column="1" />
+      <File FileName="ServicioCuentas.Aplicacion/Dtos/ReporteDto.cs" Line="13" Column="6" />
+      <File FileName="ServicioCuentas.Aplicacion/Servicios/Interfaces/ICuentaServicio.cs" Line="13" Column="51" />
+      <File FileName="ServicioCuentas.Aplicacion/Parametros/ReporteCuentaParametros.cs" Line="4" Column="4" />
+      <File FileName="ServicioCuentas.Aplicacion/Servicios/Interfaces/IReporteServicio.cs" Line="9" Column="54" />
+      <File FileName="ServicioCuentas.Aplicacion/Dtos/ReporteDto.cs" Line="16" Column="55" />
+      <File FileName="ServicioCuentas.Aplicacion/Servicios/Imp/ReporteServicio.cs" Line="40" Column="53" />
+      <File FileName="ServicioCuentas.Aplicacion/Dtos/MovimientoReporteDto.cs" Line="9" Column="54" />
+      <File FileName="ServicioCuentas.Aplicacion/Parametros/MovimientoParametros.cs" Line="6" Column="47" />
+      <File FileName="ServicioCuentas.API/appsettings.json" Line="14" Column="32" />
+      <File FileName="ServicioClientes.Pruebas/Usings.cs" Line="1" Column="1" />
+      <File FileName="ServicioClientes.Pruebas/ClienteServicioPruebas.cs" Line="77" Column="1" />
+      <File FileName="ServicioClientes/Program.cs" Line="22" Column="2" />
+      <File FileName="ServicioCuentas.Dominio/Entidades/Cuenta.cs" Line="22" Column="1" />
+      <File FileName="ServicioClientes.Infraestructura/Repositorios/RepositorioGenerico.cs" Line="49" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServicioClientes" expanded="True">
+            <Node name="ServicioClientes.Pruebas" expanded="True">
+              <Node name="ClienteServicioPruebas.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <DisabledProjects>
+    <String>ServicioClientes/ServicioClientes.API.csproj</String>
+  </DisabledProjects>
+</Properties>

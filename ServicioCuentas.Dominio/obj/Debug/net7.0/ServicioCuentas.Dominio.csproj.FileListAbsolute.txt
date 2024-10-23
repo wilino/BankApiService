@@ -1,0 +1,12 @@
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/bin/Debug/net7.0/ServicioCuentas.Dominio.deps.json
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/bin/Debug/net7.0/ServicioCuentas.Dominio.dll
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/bin/Debug/net7.0/ServicioCuentas.Dominio.pdb
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/ServicioCuentas.Dominio.csproj.AssemblyReference.cache
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/ServicioCuentas.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/ServicioCuentas.Dominio.AssemblyInfoInputs.cache
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/ServicioCuentas.Dominio.AssemblyInfo.cs
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/ServicioCuentas.Dominio.csproj.CoreCompileInputs.cache
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/ServicioCuentas.Dominio.dll
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/refint/ServicioCuentas.Dominio.dll
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/ServicioCuentas.Dominio.pdb
+/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/Debug/net7.0/ref/ServicioCuentas.Dominio.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YOlgqsvrMVM1ZZMDDquLgG3oU4iK8KJvgtzVs658uF4=",
+  "Source": "ServicioCuentas.API",
+  "BasePath": "_content/ServicioCuentas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

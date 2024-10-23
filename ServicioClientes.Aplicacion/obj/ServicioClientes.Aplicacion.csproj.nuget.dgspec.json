@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Aplicacion/ServicioClientes.Aplicacion.csproj": {}
+  },
+  "projects": {
+    "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Aplicacion/ServicioClientes.Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Aplicacion/ServicioClientes.Aplicacion.csproj",
+        "projectName": "ServicioClientes.Aplicacion",
+        "projectPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Aplicacion/ServicioClientes.Aplicacion.csproj",
+        "packagesPath": "/Users/willy-mac/.nuget/packages/",
+        "outputPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Aplicacion/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/willy-mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/ServicioClientes.Dominio.csproj": {
+                "projectPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/ServicioClientes.Dominio.csproj"
+              },
+              "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Infraestructura/ServicioClientes.Infraestructura.csproj": {
+                "projectPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Infraestructura/ServicioClientes.Infraestructura.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/ServicioClientes.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/ServicioClientes.Dominio.csproj",
+        "projectName": "ServicioClientes.Dominio",
+        "projectPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/ServicioClientes.Dominio.csproj",
+        "packagesPath": "/Users/willy-mac/.nuget/packages/",
+        "outputPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/willy-mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Infraestructura/ServicioClientes.Infraestructura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Infraestructura/ServicioClientes.Infraestructura.csproj",
+        "projectName": "ServicioClientes.Infraestructura",
+        "projectPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Infraestructura/ServicioClientes.Infraestructura.csproj",
+        "packagesPath": "/Users/willy-mac/.nuget/packages/",
+        "outputPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Infraestructura/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/willy-mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/ServicioClientes.Dominio.csproj": {
+                "projectPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/ServicioClientes.Dominio.csproj"
+              },
+              "/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/ServicioCuentas.Dominio.csproj": {
+                "projectPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/ServicioCuentas.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/ServicioCuentas.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/ServicioCuentas.Dominio.csproj",
+        "projectName": "ServicioCuentas.Dominio",
+        "projectPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/ServicioCuentas.Dominio.csproj",
+        "packagesPath": "/Users/willy-mac/.nuget/packages/",
+        "outputPath": "/Users/willy-mac/Projects/ServicioClientes/ServicioCuentas.Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/willy-mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

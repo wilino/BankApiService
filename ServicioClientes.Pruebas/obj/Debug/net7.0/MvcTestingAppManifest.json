@@ -1,0 +1,8 @@
+{
+  "ServicioClientes.Aplicacion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/willy-mac\/Projects\/ServicioClientes\/ServicioClientes.Aplicacion",
+  "ServicioClientes.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/willy-mac\/Projects\/ServicioClientes\/ServicioClientes.Dominio",
+  "ServicioClientes.Infraestructura, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/willy-mac\/Projects\/ServicioClientes\/ServicioClientes.Infraestructura",
+  "ServicioCuentas.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/willy-mac\/Projects\/ServicioClientes\/ServicioCuentas.API",
+  "ServicioCuentas.Aplicacion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/willy-mac\/Projects\/ServicioClientes\/ServicioCuentas.Aplicacion",
+  "ServicioCuentas.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/willy-mac\/Projects\/ServicioClientes\/ServicioCuentas.Dominio"
+}

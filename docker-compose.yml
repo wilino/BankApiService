@@ -1,0 +1,42 @@
+﻿version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: sqlserver
+    platform: linux/amd64  
+    environment:
+      SA_PASSWORD: "YourStrongPassword123!"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    networks:
+      - mynetwork
+
+  servicioclientesapi:
+    build:
+      context: .
+      dockerfile: ServicioClientes.API/Dockerfile
+    container_name: servicioclientesapi
+    ports:
+      - "8000:80"
+    networks:
+      - mynetwork
+    depends_on:
+      - sqlserver
+
+  serviciocuentasapi:
+    build:
+      context: .
+      dockerfile: ServicioCuentas.API/Dockerfile
+    container_name: serviciocuentasapi
+    ports:
+      - "8001:80"
+    networks:
+      - mynetwork
+    depends_on:
+      - sqlserver
+
+networks:
+  mynetwork:
+    driver: bridge

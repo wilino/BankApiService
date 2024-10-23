@@ -1,0 +1,12 @@
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/bin/Release/net7.0/ServicioClientes.Dominio.deps.json
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/bin/Release/net7.0/ServicioClientes.Dominio.dll
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/bin/Release/net7.0/ServicioClientes.Dominio.pdb
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/ServicioClientes.Dominio.csproj.AssemblyReference.cache
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/ServicioClientes.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/ServicioClientes.Dominio.AssemblyInfoInputs.cache
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/ServicioClientes.Dominio.AssemblyInfo.cs
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/ServicioClientes.Dominio.csproj.CoreCompileInputs.cache
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/ServicioClientes.Dominio.dll
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/refint/ServicioClientes.Dominio.dll
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/ServicioClientes.Dominio.pdb
+/Users/willy-mac/Projects/ServicioClientes/ServicioClientes.Dominio/obj/Release/net7.0/ref/ServicioClientes.Dominio.dll
