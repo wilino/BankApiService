@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioCuentas.Dominio", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioClientes.Pruebas", "ServicioClientes.Pruebas\ServicioClientes.Pruebas.csproj", "{ADD0F3E1-2DBE-494B-A881-142A96F55239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioClientes.API", "ServicioClientes.API\ServicioClientes.API.csproj", "{3D55F866-773D-407A-A12D-6E349AF3CE55}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioClientes.API", "ServicioClientes.API\ServicioClientes.API.csproj", "{576D2052-4DAC-49E0-9443-F7BD8EA96C02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,10 @@ Global
 		{ADD0F3E1-2DBE-494B-A881-142A96F55239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADD0F3E1-2DBE-494B-A881-142A96F55239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADD0F3E1-2DBE-494B-A881-142A96F55239}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D55F866-773D-407A-A12D-6E349AF3CE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D55F866-773D-407A-A12D-6E349AF3CE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D55F866-773D-407A-A12D-6E349AF3CE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D55F866-773D-407A-A12D-6E349AF3CE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576D2052-4DAC-49E0-9443-F7BD8EA96C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576D2052-4DAC-49E0-9443-F7BD8EA96C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576D2052-4DAC-49E0-9443-F7BD8EA96C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576D2052-4DAC-49E0-9443-F7BD8EA96C02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
